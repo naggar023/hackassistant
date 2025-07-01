@@ -2,7 +2,7 @@
 
 A powerful Python CLI tool that leverages Google Gemini AI to provide intelligent assistance for hacking, development, and system administration tasks on Linux systems.
 
-![alt text](image.png)
+![banner](image-1.png)
 
 ## Features
 
