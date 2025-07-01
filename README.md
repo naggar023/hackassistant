@@ -25,12 +25,12 @@ A powerful Python CLI tool that leverages Google Gemini AI to provide intelligen
 
 3. **Set up your Google Gemini API key**:
    ```bash
-   export GOOGLE_API_KEY='your_google_gemini_api_key_here'
+   export GEMINI_API_KEY='your_google_gemini_api_key_here'
    ```
    
    To make it permanent, add to your `~/.bashrc`:
    ```bash
-   echo 'export GOOGLE_API_KEY="your_google_gemini_api_key_here"' >> ~/.bashrc
+   echo 'export GEMINI_API_KEY="your_google_gemini_api_key_here"' >> ~/.bashrc
    source ~/.bashrc
    ```
 
@@ -83,7 +83,7 @@ Host is up (0.000010s latency).
 
 ### Getting a Google Gemini API Key
 
-1. Visit [Google AI Studio](https://makersuite.google.com/app/apikey)
+1. Visit [Google AI Studio](https://aistudio.google.com/app/apikey)
 2. Create a new API key
 3. Copy the key and set it as an environment variable
 
