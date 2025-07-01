@@ -17,7 +17,7 @@ A powerful Python CLI tool that leverages Google Gemini AI to provide intelligen
 
 1. **Clone or download the project**:
    ```bash
-   cd /home/naggar/hackassistant
+    git clone https://github.com/naggar023/hackassistant.git
    ```
 
 2. **Install dependencies**:
