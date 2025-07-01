@@ -164,13 +164,7 @@ Then you can run it directly:
    ```
    Solution: Set your Google Gemini API key as shown in the setup section.
 
-2. **Module Not Found**:
-   ```
-   ModuleNotFoundError: No module named 'google.generativeai'
-   ```
-   Solution: Install dependencies with `pip install -r requirements.txt`
-
-3. **Permission Denied on Commands**:
+2. **Permission Denied on Commands**:
    Some suggested commands might require sudo privileges. The AI will suggest appropriate commands, but always review before executing.
 
 ## Contributing
